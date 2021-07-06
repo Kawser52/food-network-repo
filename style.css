@@ -8,6 +8,7 @@ p,h1,h2,h3,h4{
 }
 .top-header{
     padding: 0px 100px;
+    margin-bottom: 100px;
 }
 .common-flexible{
     display: flex;
@@ -35,14 +36,30 @@ color: #0794F7;
     color: #8F8F8F;
     display: block;
     margin-bottom: 50px;
+    line-height: 30px;
+    width: 60%;
 }
 .button-design{
     background: linear-gradient(45deg,#A5D4EE,#0899F8);
-    padding: 15px 25px;
-    text-transform: uppercase;
+    padding: 15px 20px;
+    text-transform: capitalize;
     color: white;
-    border-radius: 25px;
+    border-radius: 30px;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 400;
 }
 
+
+.about-us{
+    background-image: url(img/about-bg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+   
+}
+
+.img-design-2{
+    width: 300px!important;
+    height: 600px;
+    margin-left: 200px;
+    margin-top: 39px;
+}
