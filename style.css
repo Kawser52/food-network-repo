@@ -47,19 +47,21 @@ color: #0794F7;
     border-radius: 30px;
     text-decoration: none;
     font-weight: 600;
+     box-shadow: 0 0 20px rgba(28, 217, 255, 0.5);
 }
 
 
 .about-us{
     background-image: url(img/about-bg.jpg);
     background-repeat: no-repeat;
+
 }
 
 .img-design-2{
     width: 220px!important;
     height: 400px;
     margin-left: 200px;
-    
+    margin-bottom: -3px;
 }
 .half-content h2{
     font-size: 40px;
