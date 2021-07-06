@@ -23,8 +23,8 @@ p,h1,h2,h3,h4{
     font-size: 60px;
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
-    padding-top: 100px;
     color:#575757;
+    padding-top: 80px;
 
 }
 #title-style{
@@ -46,20 +46,23 @@ color: #0794F7;
     color: white;
     border-radius: 30px;
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 600;
 }
 
 
 .about-us{
     background-image: url(img/about-bg.jpg);
     background-repeat: no-repeat;
-    width: 100%;
-   
 }
 
 .img-design-2{
-    width: 300px!important;
-    height: 600px;
+    width: 220px!important;
+    height: 400px;
     margin-left: 200px;
-    margin-top: 39px;
+    
+}
+.half-content h2{
+    font-size: 40px;
+    color: rgb(151, 151, 151);
+    margin-top: 60px;
 }
