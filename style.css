@@ -6,3 +6,43 @@ p,h1,h2,h3,h4{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
+.top-header{
+    padding: 0px 100px;
+}
+.common-flexible{
+    display: flex;
+}
+.half-content{
+    width: 50%;
+}
+.half-content img{
+    width: 90%;
+}
+.half-content h1{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-top: 100px;
+    color:#575757;
+
+}
+#title-style{
+color: #0794F7;
+}
+.half-content p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #8F8F8F;
+    display: block;
+    margin-bottom: 50px;
+}
+.button-design{
+    background: linear-gradient(45deg,#A5D4EE,#0899F8);
+    padding: 15px 25px;
+    text-transform: uppercase;
+    color: white;
+    border-radius: 25px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
